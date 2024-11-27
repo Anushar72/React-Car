@@ -23,13 +23,4 @@ const cars = [
       <button>Checkout</button>
     </div>
   );
-  const cars = [
-    { id: 1, name: "Toyota Camry", price: 50 },
-    { id: 2, name: "Honda Accord", price: 60 },
-    { id: 3, name: "BMW 3 Series", price: 100 },
-  ];
-}
-{
-    <button>Checkout</button>
-}
-export default App;
+ 
