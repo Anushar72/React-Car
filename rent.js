@@ -6,8 +6,6 @@ const cars = [
   { id: 3, name: "BMW 3 Series", price: 100 },
 ];
 
-function App() {
-  let selectedCar = null;
 
   return (
     <div>
